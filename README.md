@@ -1,13 +1,13 @@
 ### Live Link
-  https://hangman-game-xi-ochre.vercel.app/
+  https://reacthang.netlify.app
 
 ### Installation
 
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/Hangman_Game.git
-cd Hangman_Game
+git clone https://github.com/yourusername/HangManGameReact.git
+cd HangManGameReact
 npm install
 ```
 
